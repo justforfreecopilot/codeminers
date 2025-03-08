@@ -1,1 +1,7 @@
 practise/
+/cenv
+*.pyc
+*.pyo
+
+# Ignore all .pyc files in subfolders
+**/*.pyc
